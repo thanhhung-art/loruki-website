@@ -129,3 +129,12 @@ img {
 	padding: 100px;
 }
 
+.stats-heading {
+	max-width: 500px;
+	margin: auto;
+}
+
+.stats .grid h3 {
+	font-size: 35px;
+	font-weight: bold;
+}

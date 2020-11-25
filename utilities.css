@@ -61,7 +61,7 @@
 /* Margin*/
 
 .my-1 {
-	margin: 1rem 0;
+	margin: auto;
 }
 
 .my-2 {
@@ -119,5 +119,25 @@
 }
 
 .py-5 {
+	padding: 4rem 0;
+}
+
+.p-1 {
+	padding: 1rem 0;
+}
+
+.p-2 {
+	padding: 1.5rem 0;
+}
+
+.p-3 {
+	padding: 2rem 0;
+}
+
+.p-4 {
+	padding: 3rem 0;
+}
+
+.p-5 {
 	padding: 4rem 0;
 }
