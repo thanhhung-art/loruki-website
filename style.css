@@ -196,7 +196,7 @@ img {
 	grid-template-columns: repeat(2,1fr);
 }
 
-.features-head img {
+.features-head img, .docs-head img {
 	width:200px;
 	justify-self: flex-end;
 }
@@ -220,6 +220,12 @@ img {
 
 .features-main .card {
 	margin-right: 20px;
+}
+
+/* Docs */
+
+.docs-head .grid, .docs-main .grid {
+	grid-template-columns: repeat(2,1fr);
 }
 
 /* Tablets and under */
